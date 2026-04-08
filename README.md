@@ -1,13 +1,13 @@
 # compound-interest-lab
 
-[![Deploy to GitHub Pages](https://github.com/YOUR_USERNAME/compound-interest-lab/actions/workflows/deploy.yml/badge.svg)](https://github.com/YOUR_USERNAME/compound-interest-lab/actions/workflows/deploy.yml)
-[![Tests](https://github.com/YOUR_USERNAME/compound-interest-lab/actions/workflows/deploy.yml/badge.svg?label=tests)](https://github.com/YOUR_USERNAME/compound-interest-lab/actions/workflows/deploy.yml)
+[![Deploy to GitHub Pages](https://github.com/aTurrini/compound-interest-lab/actions/workflows/deploy.yml/badge.svg)](https://github.com/aTurrini/compound-interest-lab/actions/workflows/deploy.yml)
+[![Tests](https://github.com/aTurrini/compound-interest-lab/actions/workflows/deploy.yml/badge.svg?label=tests)](https://github.com/aTurrini/compound-interest-lab/actions/workflows/deploy.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
-**[→ Live demo](https://YOUR_USERNAME.github.io/compound-interest-lab/)**
+**[→ Live demo](https://aTurrini.github.io/compound-interest-lab/)**
 
 An interactive compound interest calculator demonstrating how money grows
 over time. Move the sliders — the chart and summary cards update instantly.
@@ -83,7 +83,7 @@ target is GitHub Pages — $0/month, no cold starts, permanent URL.
 ### Run locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/compound-interest-lab.git
+git clone https://github.com/aTurrini/compound-interest-lab.git
 cd compound-interest-lab
 npm install
 npm run dev
@@ -139,7 +139,7 @@ Every push to `main` triggers the GitHub Actions workflow in
 
 1. Runs `npm ci` and `npm run build`
 2. Uploads the `dist/` folder as a GitHub Pages artifact
-3. Deploys to `https://YOUR_USERNAME.github.io/compound-interest-lab/`
+3. Deploys to `https://aTurrini.github.io/compound-interest-lab/`
 
 The full pipeline runs in approximately 60–90 seconds.
 
