@@ -17,7 +17,7 @@ that standard are very welcome.
 ### Local setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/compound-interest-lab.git
+git clone https://github.com/aTurrini/compound-interest-lab.git
 cd compound-interest-lab
 npm install
 npm run dev
